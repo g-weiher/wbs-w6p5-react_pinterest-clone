@@ -19,7 +19,7 @@
 .topbar-content {
     height: 100%;
     display: flex;
-    /*justify-content: center;*/
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -61,4 +61,16 @@
     .logo {
       width: 100%;
     }
-  }
+    .topbar + * {
+        top:7em;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .topbar-content {
+        display: block;
+    }
+    .topbar + * {
+        top:10em;
+    }
+
+}
