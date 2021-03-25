@@ -67,7 +67,10 @@ WBS Coding School - Team-Project 5 (week 6-7)
 
 ### Demo
 
-For DEMO, go to: [Pinter-REST](https://pinterrest-clone.herokuapp.com/)
+For DEMO, go to: [Pinter-REST](https://pinterrest-clone.herokuapp.com/)  
+  
+The website is started on demand, so the first response might take a few seconds.  
+Most of the pictures in the app are random images provided by [Lorem Picsum](https://picsum.photos/). That's why they will change on reload and don't fit their descriptions.
 
 # Requirements and Installation
 
@@ -88,6 +91,7 @@ $ cd wbs-w6p5-react_pinterest-clone
 $ npm install
 $ npm start
 ```
+The app fetches its data from a Contentful setup, which you have to provide yourself
 
 ---
 
