@@ -67,7 +67,7 @@ WBS Coding School - Team-Project 5 (week 6-7)
 
 ### Demo
 
-For DEMO, go to: [Pinter-REST](https://wbs-pinterest-clone.herokuapp.com/)
+For DEMO, go to: [Pinter-REST](https://pinterrest-clone.herokuapp.com/)
 
 # Requirements and Installation
 
@@ -83,7 +83,7 @@ $ node --version
 If you want to clone this repository, run:
 
 ```bash
-$ git clone https://github.com/DevisWeb/wbs-w6p5-react_pinterest-clone.git
+$ git clone https://github.com/g-weiher/wbs-w6p5-react_pinterest-clone.git
 $ cd wbs-w6p5-react_pinterest-clone
 $ npm install
 $ npm start
